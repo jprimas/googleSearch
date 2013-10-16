@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sizes_array">
+		<item>Any Size</item>
+		<item>Icon</item>
+		<item>Medium</item>
+		<item>Huge</item>
+	</string-array>
+	
+    <string-array name="colors_array">
+		<item>Any Color</item>
+		<item>Black and White</item>
+		<item>Red</item>
+		<item>Orange</item>
+		<item>Blue</item>
+		<item>Yellow</item>
+		<item>Black</item>
+		<item>White</item>
+	</string-array>
+	
+    <string-array name="types_array">
+		<item>Any Type</item>
+		<item>Faces</item>
+		<item>Photos</item>
+		<item>Clip Art</item>
+		<item>Line Drawing</item>
+	</string-array>
+    
+</resources>
